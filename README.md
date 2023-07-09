@@ -60,3 +60,7 @@ These columns provide essential information about the houses in the dataset, whi
 * In cases where the house is not in good condition, undertaking necessary repairs and improvements can significantly increase its value. Investing in renovations and upgrades that enhance the overall quality and appeal of the property can make it more attractive to potential buyers, thereby raising its value in the market.
 
 * By considering these factors and taking appropriate actions, both buyers and sellers can make informed decisions to maximize the value and attractiveness of the house in the real estate market.
+
+## Non-Technical Presentation
+
+To access the non-technical presentation click here [Link](https://docs.google.com/presentation/d/1c78rQNvBFLoSo5-VF1IFkhWmwpWjwOB_ogFOF-uoAxE/edit?pli=1#slide=id.gc6f75fceb_0_0)
